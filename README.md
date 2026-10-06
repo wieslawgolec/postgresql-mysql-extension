@@ -103,6 +103,15 @@ Improve documentation or add tests
 
 Please follow standard GitHub flow: fork → branch → PR.
 
+## Support the project
+
+If this extension helps you, you can support development:
+
+- **GitHub Sponsors:** [github.com/sponsors/wieslawgolec](https://github.com/sponsors/wieslawgolec)
+- **Buy Me a Coffee:** [buymeacoffee.com/wieslawgolec](https://buymeacoffee.com/wieslawgolec)
+
+Use the **Sponsor** button on this repository for the same links.
+
 ## License
 This project is licensed under the **MIT License** - see the LICENSE file for details.
 
